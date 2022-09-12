@@ -68,7 +68,7 @@
 
   <a href="https://github.com/yogendraft21?tab=repositories">
     <img width="400" height="auto"  alt="Yogendra's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
+         src="./stats.PNG" />
   </a>
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" alt="Yogendra-311" />
