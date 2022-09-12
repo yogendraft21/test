@@ -66,8 +66,8 @@
 
 
 
-  <a href="https://github.com/jitesh-95?tab=repositories">
-    <img width="400" height="auto"  alt="Yogi's github stats" 
+  <a href="https://github.com/yogendraft21?tab=repositories">
+    <img width="400" height="auto"  alt="Yogendra's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
